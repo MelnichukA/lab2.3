@@ -5,6 +5,7 @@
 
 
 int main()
+
 {
 	double a = -3, b = 3, c =1, d = 2, hx = 0.25, hy = 0.15;
 	printf("%c\\%c", 'Y', 'X');
